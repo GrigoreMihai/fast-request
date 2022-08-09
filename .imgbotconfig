@@ -1,7 +1,5 @@
 {
 
     "aggressiveCompression": "true", 
-    "minKBReduced": 0, 
-    "prTitle" : "Image optimization",
-    "prBody" : " Text before optimization ratio {optimization_ratio} Text after optimization ratio",
+    "minKBReduced": 0
 }
